@@ -7,7 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # What is this about?
 
-it's a project that represents a Social Media Website where you can contact with other people and make a post with image.It's part of the odin Project Course .
+it's a project that represents a Social Media Website where you can contact with other people and make a post with image.It's part of the odin Project Course.
+
 We used :
 -Redux
 -Redux Toolkit
@@ -15,7 +16,7 @@ We used :
 - CSS
 - HTML
 - Firebase (for storage and authentification)
-- React_bootstrap
+- React-bootstrap
 -We used functional components of react using states.
 ## Live Demo
 Here is the live demo: [Click Here](https://mehdi-touil.github.io/SocialMediaWebsite-Clone/)
