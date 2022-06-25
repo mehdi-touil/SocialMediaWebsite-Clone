@@ -18,7 +18,7 @@ We used :
 - React_bootstrap
 -We used functional components of react using states.
 ## Live Demo
-Here is the live demo: https://mehdi-touil.github.io/shoppingcart/](https://mehdi-touil.github.io/SocialMediaWebsite-Clone/
+Here is the live demo: [Click Here](https://mehdi-touil.github.io/SocialMediaWebsite-Clone/)
 
 ### How It Works:
 ## 1-Sign In Using Google Account
@@ -27,5 +27,7 @@ Here is the live demo: https://mehdi-touil.github.io/shoppingcart/](https://mehd
 ## 2-Conversations 
 ![Conversations](https://firebasestorage.googleapis.com/v0/b/chatapp-819a1.appspot.com/o/Screenshot%20from%202022-06-25%2018-25-19.png?alt=media&token=fdc978b3-af71-4741-92e2-b58dd41cca0e)
 
-## 2-Conversations 
+## 3-Make A post 
 ![Posts](https://firebasestorage.googleapis.com/v0/b/chatapp-819a1.appspot.com/o/Screenshot%20from%202022-06-25%2018-25-39.png?alt=media&token=cef48a0a-ccbf-4314-b1db-ac03758ec345)
+## 4-Logout
+![logout](src="https://firebasestorage.googleapis.com/v0/b/chatapp-819a1.appspot.com/o/Screenshot%20from%202022-06-25%2018-25-00.png?alt=media&token=cd9edd6a-1dd2-480d-986e-367f85937de0")
